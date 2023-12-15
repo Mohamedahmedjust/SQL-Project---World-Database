@@ -1,4 +1,4 @@
-# SQL-Project---World-Of-Nations-Database
+# SQL-Project---World Database
 SQL project using MySQL workbench 
 
 # Areas Of Focus:
