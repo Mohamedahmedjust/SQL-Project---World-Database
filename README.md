@@ -10,7 +10,7 @@ Understanding relationships
 Identifying primary and foreign key
 
 # Tasks:
-Task 1: List the different types of relationships in relational databases  and provide examples.
+Task 1: List the different types of relationships in relational databases  and provide examples.<b>
 Task 2: What is Normalization and why is it important to database development?
 Task 3: Get the number of cities in the USA
 Task 4: Find out what the population and life expectancy for people in Argentina (ARG) is
